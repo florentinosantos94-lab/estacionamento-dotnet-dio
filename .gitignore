@@ -1,0 +1,19 @@
+# .NET Core / .NET 5+
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Outros
+*.log
+*.db
+*.sqlite
+*.DS_Store
